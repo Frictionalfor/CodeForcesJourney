@@ -9,4 +9,5 @@ I will update this file every day after solving a problem to keep a complete log
 | 2025-12-09 | 71A        | Way Too Long Words      | A     | C++     | AC     | First CF submission          |
 | 2025-12-09 | 4A         | Watermelon              | A     | C++     | AC     | Easy beginner problem        |
 | 2025-12-09 | 50A        | A Domino Piling         | A     | C++     | AC     | Max pairs of cells           |
-|
+| 2025-12-09 | 1742       | A Sum                   | A     | C++     | AC     | Two numbers equal to third   | 
+| 

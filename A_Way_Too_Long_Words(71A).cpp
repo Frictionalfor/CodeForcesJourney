@@ -24,3 +24,13 @@ int main(){
     
     return 0;
 }
+
+/*Algorithm:-
+For each word:
+    i) If length ≤ 10 → print word as is.
+    ii) Otherwise:
+        a) Take first letter
+        b) Count middle letters = length - 2
+        c) Take last letter
+        d) Print: first + count + last
+*/

@@ -15,3 +15,9 @@ int main(){
     
     return 0;
 }
+
+/*Algorithm:-
+    i) Read integer w.
+    ii) If w is even AND w > 2 → print YES.
+    iii) Otherwise → print NO.
+*/
