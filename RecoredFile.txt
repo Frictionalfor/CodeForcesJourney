@@ -12,4 +12,5 @@ I will update this file every day after solving a problem to keep a complete log
 | 2025-12-09 | 1742       | A Sum                   | A     | C++     | AC     | Two numbers equal to third   | 
 | 2025-12-09 | 1999       | A+B Again?              | A     | C++     | AC     | Sum digits of num            |
 | 2025-12-09 | 200        | Drinks                  | B     | C++     | AC     | Average of all percentage    |
-|
+| 2025-12-10 | 617        | Elephant                | A     | C++     | AC     | Steps equal ceil(x/5)        |
+| 2025-12
