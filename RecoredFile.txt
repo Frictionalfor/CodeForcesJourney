@@ -14,4 +14,6 @@ I will update this file every day after solving a problem to keep a complete log
 | 2025-12-09 | 200        | Drinks                         | B     | C++     | AC     | Average of all percentage    |
 | 2025-12-10 | 617        | Elephant                       | A     | C++     | AC     | Steps equal ceil(x/5)        |
 | 2025-12-10 | 723        | The New Year Meeting Friends   | A     | C++     | AC     | Sort and subtract extremes   |
-| 2025-12
+| 2025-12-10 | 486        | Calculating Function           | A     | C++     | AC     | Even positive, Odd negative  |
+| 2025-12-10 | 705        | Hulk                           | A     | C++     | AC     | Alternate hate and love      |
+| 2025-12-
