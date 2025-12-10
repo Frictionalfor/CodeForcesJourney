@@ -4,13 +4,14 @@ This file tracks all my daily Codeforces problem solutions.
 Each entry records the problem ID, name, level, language, status, and any important notes.  
 I will update this file every day after solving a problem to keep a complete log of my competitive programming journey.
 
-| Date       | Problem ID | Problem Name            | Level | Language| Status | Notes                        |
-|------------|------------|-------------------------|-------|---------|--------|------------------------------|
-| 2025-12-09 | 71A        | Way Too Long Words      | A     | C++     | AC     | First CF submission          |
-| 2025-12-09 | 4A         | Watermelon              | A     | C++     | AC     | Easy beginner problem        |
-| 2025-12-09 | 50A        | A Domino Piling         | A     | C++     | AC     | Max pairs of cells           |
-| 2025-12-09 | 1742       | A Sum                   | A     | C++     | AC     | Two numbers equal to third   | 
-| 2025-12-09 | 1999       | A+B Again?              | A     | C++     | AC     | Sum digits of num            |
-| 2025-12-09 | 200        | Drinks                  | B     | C++     | AC     | Average of all percentage    |
-| 2025-12-10 | 617        | Elephant                | A     | C++     | AC     | Steps equal ceil(x/5)        |
+| Date       | Problem ID | Problem Name                   | Level | Language| Status | Notes                        |
+|------------|------------|--------------------------------|-------|---------|--------|------------------------------|
+| 2025-12-09 | 71A        | Way Too Long Words             | A     | C++     | AC     | First CF submission          |
+| 2025-12-09 | 4A         | Watermelon                     | A     | C++     | AC     | Easy beginner problem        |
+| 2025-12-09 | 50A        | A Domino Piling                | A     | C++     | AC     | Max pairs of cells           |
+| 2025-12-09 | 1742       | A Sum                          | A     | C++     | AC     | Two numbers equal to third   | 
+| 2025-12-09 | 1999       | A+B Again?                     | A     | C++     | AC     | Sum digits of num            |
+| 2025-12-09 | 200        | Drinks                         | B     | C++     | AC     | Average of all percentage    |
+| 2025-12-10 | 617        | Elephant                       | A     | C++     | AC     | Steps equal ceil(x/5)        |
+| 2025-12-10 | 723        | The New Year Meeting Friends   | A     | C++     | AC     | Sort and subtract extremes   |
 | 2025-12
