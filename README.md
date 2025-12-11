@@ -64,8 +64,7 @@ By the end of this journey, I aim to:
 
 ## 🔗 My Codeforces Profile
 
-Check out my profile and progress here:  
-[swanand2008.08](https://codeforces.com/profile/swanand2008.08)
+Check out my profile and progress here:  [swanand2008.08](https://codeforces.com/profile/swanand2008.08)
 
 ---
 
