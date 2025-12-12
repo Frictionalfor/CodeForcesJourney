@@ -1,3 +1,20 @@
+//Intuition:
+/*
+    i) A beautiful year is one where all digits are distinct.   
+    ii) To find the next beautiful year after a given year, we can increment the year and check if all digits are distinct.
+*/
+
+//Approach:
+/*
+    i) Read the integer year.
+    ii) Increment the year by 1.
+    iii) Check if all digits in the year are distinct:
+        a) Convert year to string.
+        b) Compare each digit with every other digit.
+    iv) If all digits are distinct, print the year and exit.
+    v) If not, repeat from step ii.
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -33,3 +50,6 @@ int main(){
     iv) If all digits are distinct, print the year and exit.
     v) If not, repeat from step ii.
 */
+
+//Time Complexity: O(1) since the maximum number of years to check is limited (from 1000 to 9999).
+//Space Complexity: O(1) as no additional space is used that scales with input size.
