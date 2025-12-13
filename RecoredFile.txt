@@ -19,4 +19,5 @@ I will update this file every day after solving a problem to keep a complete log
 | 2025-12-11 | 271        | Beautiful Year                     | A     | C++     | AC     | Find next distinct digits       |
 | 2025-12-11 | 2166       | Tab Closing                        | B     | C++     | AC     | Else always need two            |
 | 2025-12-12 | 2171       | Yuu Koito and Minimum Absolute Sum | B     | C++     | AC     | Keep lexicographically minimal  |
+| 2025-12-13 | 2167       | Square?                            | A     | C++     | AC     | Just compare the sides          |
 | 2025-12-
