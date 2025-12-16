@@ -22,4 +22,5 @@ I will update this file every day after solving a problem to keep a complete log
 | 2025-12-13 | 2167       | Square?                            | A     | C++     | AC     | Just compare the sides          |
 | 2025-12-14 | 1656       | Good Pair                          | A     | C++     | AC     | Indices of minimum and maximum  |
 | 2025-12-15 | 2145       | Candies For Nephews                | A     | C++     | AC     | Just (3 - n % 3) % 3 this       |
+| 2025-12-16 | 2119       | Add Or XOR                         | A     | C++     | AC     | Compare Add or XOR it           |
 | 2025-12-
